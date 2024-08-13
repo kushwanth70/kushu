@@ -1,0 +1,2 @@
+# kushu
+print("hello")
